@@ -1,0 +1,5 @@
+bluetooth_com.h:6:6:clock_init	16	static
+bluetooth_com.h:12:6:rxtx_init	24	static
+bluetooth_com.h:26:6:usart_init	8	static
+bluetooth_com.h:39:6:send_string	16	static
+main.c:3:5:main	64	static
